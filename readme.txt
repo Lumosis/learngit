@@ -17,3 +17,7 @@ git reset HEAD readme.txt
 git rm somefile
 git checkout -- somefile
 ---------------------
+git remote add origin git@github.com:username/repo-name.git
+git push -u origin master
+-----------------------------------
+
