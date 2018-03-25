@@ -1,4 +1,14 @@
-Git is a distributed version control system
-Git is a free software distributed under the GPL
-Git has a mutable index called stage
-Git tracks changes of files.
+cd somedir
+git init
+--------------
+git add somefile
+git commit -m blah
+-------------
+git status
+git diff somefile (-- somefile)
+--------------
+git log
+git reset --hard HEAD^
+git reflog
+git checkout -- somefile
+----------------------
