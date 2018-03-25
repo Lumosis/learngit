@@ -20,4 +20,6 @@ git checkout -- somefile
 git remote add origin git@github.com:username/repo-name.git
 git push -u origin master
 -----------------------------------
+git clone git@github.com:Lumosis/repo_name
+-----------------------------------
 
