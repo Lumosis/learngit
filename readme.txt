@@ -13,4 +13,7 @@ git reflog
 git checkout -- somefile
 ----------------------
 git reset HEAD readme.txt
-
+---------------------
+git rm somefile
+git checkout -- somefile
+---------------------
