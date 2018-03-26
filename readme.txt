@@ -22,4 +22,9 @@ git push -u origin master
 -----------------------------------
 git clone git@github.com:Lumosis/repo_name
 -----------------------------------
+git checkout -b dev =
+git branch dev + git checkout dev
+------------------------------
+git branch
+-------------------------
 
