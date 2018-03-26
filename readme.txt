@@ -35,4 +35,4 @@ git branch -d dev	//删除分支
 企图合并>>合并失败>>修改>>提交（合并成功）>>删除多余分支
 git log --graph		//查看分支合并图
 -------------------------
-
+assuming that i just fix a bug.
