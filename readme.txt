@@ -27,4 +27,6 @@ git branch dev + git checkout dev
 ------------------------------
 git branch
 -------------------------
+git merge dev
+------------------------
 
