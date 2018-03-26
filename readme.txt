@@ -31,5 +31,7 @@ git branch		//查询分支
 git merge dev		//合并分支
 ------------------------
 git branch -d dev	//删除分支
+<<<<<<< HEAD
 ---------------------
-blah
+blah and test
+
